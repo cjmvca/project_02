@@ -1,0 +1,4 @@
+ACMVX	20	American Century Mid Cap Value Inv
+PARWX	20	Parnassus Endeavor Fund Investor Shares 
+PRFDX	20	T. Rowe Price Equity Income Fund
+FCNKX	50	Fidelity® Contrafund® - Class K		
